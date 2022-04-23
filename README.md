@@ -1,5 +1,5 @@
 <img src="https://wallpapercave.com/wp/wp6529065.jpg" alt="whatsapp-botto-void-init" border="0" width="400px"></a>
-# Chitoge Hosting/Deploy Guides
+# Zero Two Hosting/Deployment Guides
 
 ## 💻 [Self-Hosting-Guide](https://github.com/ShinNouzen/Chitoge-Guides/blob/main/Self-hosting-guide.md)
 ## ☁️ [Heroku-Deploy-Guide](https://github.com/ShinNouzen/Chitoge-Guides/blob/main/Heroku-Deploy-Guide.md) 
