@@ -28,7 +28,7 @@
 `PREFIX` The Prefix of the Bot <br>
 `SESSION` A string to keep track of your session. <br>
 `MODS` The phone numbers of users who you want to be the bot's Admins separated by a comma and must the numbers must be in the following format: `[cc][number]`. eg: `919744******`<br>
-`MONGO_URI` is the Connection URL to your DB ([Mongo-Atlas-Guide](https://github.com/ShinNouzen/Chitoge-Guides/blob/main/Mongo-Atlas-guide.md))<br>
+`MONGO_URI` is the Connection URL to your DB ([Mongo-Atlas-Guide](https://github.com/FantoX001/Zero-Two-Guides/blob/main/Mongo-Atlas-guide.md))<br>
 `TENOR_API` is the key for gif searches. Get ur apikey [here.](https://tenor.com/developer/keyregistration)
 `GENIUS_KEY` is key for search song lyrics. Get ur apikey [here.](https://genius.com/api-clients#)
 5. Wait for the building to finish, you should always keep an eye on log messages, you can find log messages in the Dashboard -> More -> View logs.<br>
